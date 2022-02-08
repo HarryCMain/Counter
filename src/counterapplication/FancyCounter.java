@@ -8,6 +8,6 @@ public class FancyCounter extends Counter {
     
     @Override
     public void reset() {
-        value = 17;
+        value = 14;
     }
 }
